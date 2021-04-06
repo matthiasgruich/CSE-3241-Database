@@ -1367,3 +1367,164 @@ VALUES (
     'patron20@gmail.com',
     'empID20'
 );
+
+
+INSERT INTO ALBUMS
+VALUES (
+    'mediaID1',
+    '2014-06-20',
+    'Pop',
+    'personID1'
+);
+
+INSERT INTO ALBUMS
+VALUES (
+    'mediaID2',
+    '2011-09-09',
+    'Pop',
+    'personID1'
+);
+
+INSERT INTO ALBUMS
+VALUES (
+    'mediaID3',
+    '2015-05-12',
+    'Pop',
+    'personID1'
+);
+
+INSERT INTO ALBUMS
+VALUES (
+    'mediaID4',
+    '2020-07-10',
+    'Hip hop',
+    'personID2'
+);
+
+INSERT INTO ALBUMS
+VALUES (
+    'mediaID5',
+    '2019-03-08',
+    'Hip hop',
+    'personID2'
+);
+
+INSERT INTO ALBUMS
+VALUES (
+    'mediaID6',
+    '1969-09-26',
+    'Rock',
+    'personID3'
+);
+
+INSERT INTO ALBUMS
+VALUES (
+    'mediaID7',
+    '1968-11-22',
+    'Rock',
+    'personID3'
+);
+
+INSERT INTO ALBUMS
+VALUES (
+    'mediaID8',
+    '1965-08-06',
+    'Rock',
+    'personID3'
+);
+
+INSERT INTO ALBUMS
+VALUES (
+    'mediaID9',
+    '1970-05-08',
+    'Rock',
+    'personID3'
+);
+
+INSERT INTO ALBUMS
+VALUES (
+    'mediaID10',
+    '1973-04-13',
+    'Reggae',
+    'personID4'
+);
+
+INSERT INTO ALBUMS
+VALUES (
+    'mediaID11',
+    '2014-11-21',
+    'Reggae',
+    'personID4'
+);
+
+INSERT INTO ALBUMS
+VALUES (
+    'mediaID12',
+    '2017-10-06',
+    'Reggae',
+    'personID4'
+);
+
+INSERT INTO ALBUMS
+VALUES (
+    'mediaID13',
+    '2011-05-23',
+    'Pop',
+    'personID5'
+);
+
+INSERT INTO ALBUMS
+VALUES (
+    'mediaID14',
+    '2008-08-19',
+    'Pop',
+    'personID5'
+);
+
+INSERT INTO ALBUMS
+VALUES (
+    'mediaID15',
+    '2018-10-05',
+    'Pop',
+    'personID5'
+);
+
+INSERT INTO ALBUMS
+VALUES (
+    'mediaID16',
+    '2016-12-09',
+    'Hip hop',
+    'personID6'
+);
+
+INSERT INTO ALBUMS
+VALUES (
+    'mediaID17',
+    '2016-05-12',
+    'Hip hop',
+    'personID6'
+);
+
+INSERT INTO ALBUMS
+VALUES (
+    'mediaID18',
+    '2020-02-14',
+    'Pop',
+    'personID7'
+);
+
+INSERT INTO ALBUMS
+VALUES (
+    'mediaID19',
+    '2015-11-13',
+    'Pop',
+    'personID7'
+);
+
+INSERT INTO ALBUMS
+VALUES (
+    'mediaID20',
+    '2012-06-15',
+    'Pop',
+    'personID7'
+);
