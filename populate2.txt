@@ -2402,4 +2402,322 @@ VALUES (
     'personID20'
 );
 
+INSERT INTO CHAPTERS
+VALUES (
+    1,
+    20,
+    'Chapter One',
+    'mediaID60'
+);
 
+INSERT INTO CHAPTERS
+VALUES (
+    2,
+    20,
+    'Chapter Two',
+    'mediaID60'
+);
+
+INSERT INTO CHAPTERS
+VALUES (
+    3,
+    20,
+    'Chapter Three',
+    'mediaID60'
+);
+
+INSERT INTO CHAPTERS
+VALUES (
+    4,
+    20,
+    'Chapter Four',
+    'mediaID60'
+);
+
+INSERT INTO CHAPTERS
+VALUES (
+    5,
+    20,
+    'Chapter Five',
+    'mediaID60'
+);
+
+INSERT INTO CHAPTERS
+VALUES (
+    1,
+    20,
+    'Chapter One',
+    'mediaID59'
+);
+
+INSERT INTO CHAPTERS
+VALUES (
+    2,
+    20,
+    'Chapter Two',
+    'mediaID59'
+);
+
+INSERT INTO CHAPTERS
+VALUES (
+    3,
+    20,
+    'Chapter Three',
+    'mediaID59'
+);
+
+INSERT INTO CHAPTERS
+VALUES (
+    4,
+    20,
+    'Chapter Four',
+    'mediaID59'
+);
+
+INSERT INTO CHAPTERS
+VALUES (
+    5,
+    20,
+    'Chapter Five',
+    'mediaID59'
+);
+
+INSERT INTO CHAPTERS
+VALUES (
+    1,
+    20,
+    'Chapter One',
+    'mediaID58'
+);
+
+INSERT INTO CHAPTERS
+VALUES (
+    2,
+    20,
+    'Chapter Two',
+    'mediaID58'
+);
+
+INSERT INTO CHAPTERS
+VALUES (
+    3,
+    20,
+    'Chapter Three',
+    'mediaID58'
+);
+
+INSERT INTO CHAPTERS
+VALUES (
+    4,
+    20,
+    'Chapter Four',
+    'mediaID58'
+);
+
+INSERT INTO CHAPTERS
+VALUES (
+    5,
+    20,
+    'Chapter Five',
+    'mediaID58'
+);
+
+INSERT INTO CHAPTERS
+VALUES (
+    1,
+    20,
+    'Chapter One',
+    'mediaID57'
+);
+
+INSERT INTO CHAPTERS
+VALUES (
+    2,
+    20,
+    'Chapter Two',
+    'mediaID57'
+);
+
+INSERT INTO CHAPTERS
+VALUES (
+    3,
+    20,
+    'Chapter Three',
+    'mediaID57'
+);
+
+INSERT INTO CHAPTERS
+VALUES (
+    4,
+    20,
+    'Chapter Four',
+    'mediaID57'
+);
+
+INSERT INTO CHAPTERS
+VALUES (
+    5,
+    20,
+    'Chapter Five',
+    'mediaID57'
+);
+
+INSERT INTO TRACKS
+VALUES (
+    'trackID1',
+    'track1',
+    'Rock',
+    'mediaID6'
+);
+
+INSERT INTO TRACKS
+VALUES (
+    'trackID2',
+    'track2',
+    'Rock',
+    'mediaID6'
+);
+
+INSERT INTO TRACKS
+VALUES (
+    'trackID3',
+    'track3',
+    'Rock',
+    'mediaID6'
+);
+
+INSERT INTO TRACKS
+VALUES (
+    'trackID4',
+    'track4',
+    'Rock',
+    'mediaID6'
+);
+
+INSERT INTO TRACKS
+VALUES (
+    'trackID5',
+    'track5',
+    'Rock',
+    'mediaID6'
+);
+
+INSERT INTO TRACKS
+VALUES (
+    'trackID6',
+    'track6',
+    'Rock',
+    'mediaID6'
+);
+
+INSERT INTO TRACKS
+VALUES (
+    'trackID7',
+    'track7',
+    'Rock',
+    'mediaID6'
+);
+
+INSERT INTO TRACKS
+VALUES (
+    'trackID8',
+    'track8',
+    'Rock',
+    'mediaID6'
+);
+
+INSERT INTO TRACKS
+VALUES (
+    'trackID9',
+    'track9',
+    'Rock',
+    'mediaID6'
+);
+
+INSERT INTO TRACKS
+VALUES (
+    'trackID10',
+    'track10',
+    'Rock',
+    'mediaID6'
+);
+
+INSERT INTO TRACKS
+VALUES (
+    'trackID11',
+    'track1',
+    'Rock',
+    'mediaID7'
+);
+
+INSERT INTO TRACKS
+VALUES (
+    'trackID12',
+    'track2',
+    'Rock',
+    'mediaID7'
+);
+
+INSERT INTO TRACKS
+VALUES (
+    'trackID13',
+    'track3',
+    'Rock',
+    'mediaID7'
+);
+
+INSERT INTO TRACKS
+VALUES (
+    'trackID14',
+    'track4',
+    'Rock',
+    'mediaID7'
+);
+
+INSERT INTO TRACKS
+VALUES (
+    'trackID15',
+    'track5',
+    'Rock',
+    'mediaID7'
+);
+
+INSERT INTO TRACKS
+VALUES (
+    'trackID16',
+    'track6',
+    'Rock',
+    'mediaID7'
+);
+
+INSERT INTO TRACKS
+VALUES (
+    'trackID17',
+    'track7',
+    'Rock',
+    'mediaID7'
+);
+
+INSERT INTO TRACKS
+VALUES (
+    'trackID18',
+    'track8',
+    'Rock',
+    'mediaID7'
+);
+
+INSERT INTO TRACKS
+VALUES (
+    'trackID19',
+    'track9',
+    'Rock',
+    'mediaID7'
+);
+
+INSERT INTO TRACKS
+VALUES (
+    'trackID20',
+    'track10',
+    'Rock',
+    'mediaID7'
+);
